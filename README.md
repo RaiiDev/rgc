@@ -13,6 +13,6 @@ $ pkg install git
 
 $ pip install pyluhn
 
-$ git clone 
+$ git clone https://github.com/RaiiDev/rgc
 
 $ python3 rgc.py
